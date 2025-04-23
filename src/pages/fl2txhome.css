@@ -1,0 +1,67 @@
+/* Reset */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+/* Base HTML Styles */
+html {
+  font-family: sans-serif;
+  line-height: 1.15;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+  -webkit-tap-highlight-color: transparent;
+  -ms-overflow-style: scrollbar;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #292b2c;
+  background-color: #fff;
+}
+
+/* Specific Utility Class from Original Site */
+.-oneX-body--primary {
+  color: #212121;
+  font-family: "MecherleSans", Arial, sans-serif;
+  font-weight: 400;
+  font-size: 1rem;
+  line-height: 21px;
+}
+
+.red-oval-button {
+    background-color: #d62311;
+    color: white;
+    border: none;
+    border-radius: 999px;
+    padding: 0.75rem 2rem;
+    font-size: 1rem;
+    font-weight: bold;
+    cursor: pointer;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    transition: background-color 0.2s ease-in-out;
+  }
+  
+  .red-oval-button:hover {
+    background-color: #b81c0d; /* darker red on hover */
+  }
+
+  .icon-label {
+    margin-top: 0.5rem;
+    font-size: 0.9rem;
+    transition: all 0.2s ease;
+    border-bottom: 2px solid transparent;
+  }
+  
+  a:hover .icon-label,
+  a:focus .icon-label {
+    border-bottom: 2px solid #d62311; /* Red underline */
+  }
+  
