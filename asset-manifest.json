@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/landing-pages/static/css/main.6ef538ec.css",
-    "main.js": "/landing-pages/static/js/main.f26ce914.js",
+    "main.js": "/landing-pages/static/js/main.0de4897a.js",
     "static/media/profpic1.jpg": "/landing-pages/static/media/profpic1.6854924f3dc29c7c2bf5.jpg",
     "static/media/state-farm-logo-4.svg": "/landing-pages/static/media/state-farm-logo-4.3b801075c49e43691ad95950a3c196fe.svg",
     "index.html": "/landing-pages/index.html",
@@ -16,10 +16,10 @@
     "static/media/user.svg": "/landing-pages/static/media/user.780a52a3688dd2fd0230fe4949982dd5.svg",
     "static/media/facebook.svg": "/landing-pages/static/media/facebook.54b6ed1796ae51e7991a86b99ceb8334.svg",
     "main.6ef538ec.css.map": "/landing-pages/static/css/main.6ef538ec.css.map",
-    "main.f26ce914.js.map": "/landing-pages/static/js/main.f26ce914.js.map"
+    "main.0de4897a.js.map": "/landing-pages/static/js/main.0de4897a.js.map"
   },
   "entrypoints": [
     "static/css/main.6ef538ec.css",
-    "static/js/main.f26ce914.js"
+    "static/js/main.0de4897a.js"
   ]
 }
