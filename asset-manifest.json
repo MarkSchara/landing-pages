@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/landing-page/static/css/main.6ef538ec.css",
+    "main.js": "/landing-page/static/js/main.9d68dbf3.js",
+    "static/media/profpic1.jpg": "/landing-page/static/media/profpic1.6854924f3dc29c7c2bf5.jpg",
+    "static/media/state-farm-logo-4.svg": "/landing-page/static/media/state-farm-logo-4.3b801075c49e43691ad95950a3c196fe.svg",
+    "index.html": "/landing-page/index.html",
+    "static/media/phone-call.svg": "/landing-page/static/media/phone-call.6a95923bc361c1552d856d03b4c6c44d.svg",
+    "static/media/chrome.svg": "/landing-page/static/media/chrome.9afafdbadd3f58382f91e18b9159feb2.svg",
+    "static/media/message-circle.svg": "/landing-page/static/media/message-circle.7796f8f5908baae73ff7967460a4f822.svg",
+    "static/media/twitter.svg": "/landing-page/static/media/twitter.410a9d14144a810542330f7d951ff2cf.svg",
+    "static/media/instagram.svg": "/landing-page/static/media/instagram.7d97391465d60f2909c444d267ea80ff.svg",
+    "static/media/linkedin.svg": "/landing-page/static/media/linkedin.9e52cf326e0bbf3cd9a3378906c0d35c.svg",
+    "static/media/mail.svg": "/landing-page/static/media/mail.eee1baa73917a6ad8cc5ab655510875a.svg",
+    "static/media/credit-card.svg": "/landing-page/static/media/credit-card.d54e03874ef5af85ae1758de03816809.svg",
+    "static/media/user.svg": "/landing-page/static/media/user.780a52a3688dd2fd0230fe4949982dd5.svg",
+    "static/media/facebook.svg": "/landing-page/static/media/facebook.54b6ed1796ae51e7991a86b99ceb8334.svg",
+    "main.6ef538ec.css.map": "/landing-page/static/css/main.6ef538ec.css.map",
+    "main.9d68dbf3.js.map": "/landing-page/static/js/main.9d68dbf3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ef538ec.css",
+    "static/js/main.9d68dbf3.js"
+  ]
+}
